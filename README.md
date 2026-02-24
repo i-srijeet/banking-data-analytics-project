@@ -33,4 +33,3 @@ Power BI
 Srijeet Biswas
 LinkedIn: https://www.linkedin.com/in/srijeet-biswas-a69103235/
 
-Power BI (Dashboard – in progress)
