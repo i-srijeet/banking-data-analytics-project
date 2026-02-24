@@ -1,30 +1,35 @@
-# banking-data-analytics-project
+Banking Domain Data Analytics Project
+📌 Overview
 
----
+This project focuses on analyzing banking transaction data to uncover customer spending patterns, repayment behavior, and financial trends. The objective is to transform raw data into meaningful insights that can support data-driven decision making in the banking domain.
 
-🚧 Status: In Progress
+🎯 Objectives
 
-Overview
+Perform data cleaning and preprocessing
 
-This project analyzes banking transaction data to identify spending patterns, repayment behavior, and customer insights.
+Conduct exploratory data analysis (EDA)
 
-Work Completed
+Identify patterns in customer transactions
 
-Data cleaning and preprocessing using Python
+Generate actionable insights
 
-Exploratory Data Analysis (EDA)
+Build an interactive dashboard (in progress)
 
-Feature creation and insights generation
+🛠️ Tools & Technologies
 
-Work in Progress
+Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Interactive Power BI dashboard
+SQL
 
-Tools Used
+Jupyter Notebook
 
-Python • Pandas • NumPy • Matplotlib • SQL • Power BI
+Power BI
 
-Author
+👤 Author
 
 Srijeet Biswas
+LinkedIn: https://www.linkedin.com/in/srijeet-biswas-a69103235/
 
+Jupyter Notebook
+
+Power BI (Dashboard – in progress)
