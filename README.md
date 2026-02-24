@@ -1,4 +1,7 @@
 Banking Domain Data Analytics Project
+
+----
+
 📌 Overview
 
 This project focuses on analyzing banking transaction data to uncover customer spending patterns, repayment behavior, and financial trends. The objective is to transform raw data into meaningful insights that can support data-driven decision making in the banking domain.
@@ -29,7 +32,5 @@ Power BI
 
 Srijeet Biswas
 LinkedIn: https://www.linkedin.com/in/srijeet-biswas-a69103235/
-
-Jupyter Notebook
 
 Power BI (Dashboard – in progress)
